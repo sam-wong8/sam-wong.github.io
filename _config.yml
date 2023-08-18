@@ -1,0 +1,5 @@
+title: Hi there, I'm Sam!
+description: I'm a student who really likes to make stuff!
+remote_theme: pages-themes/cayman
+plugins:
+- jekyll-remote-theme
